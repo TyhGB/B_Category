@@ -80,7 +80,7 @@ b category des
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-spec.source       = { :git => "https://github.com/TyhGB/B_Category.git", :tag => "{#spec.version}" }
+spec.source       = { :git => "https://github.com/TyhGB/B_Category.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
